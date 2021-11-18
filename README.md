@@ -16,14 +16,14 @@ Célula é nada mais que um grupo de pessoas que pode ser organizado de acordo c
 
 #### Serviços
 ##### Serviços para Membros
-    # Qualquer pessoa pode ser considerado um membro. Dessa forma, teremos informações sobre:
-    ## Onde tem uma célula;
-    ## Como fazer um cadastro na célula;
-    ## Horários das células;
-    ## Tema do encontro da célula;
-    ## Louvor da célula;
-    ## Quebra-gelo (dinâmica) da célula do dia;
-    ## Palavra a ser ministrada;
-    ## Pregador da célula;
-    ## Endereço do encontro em célula;
+    Qualquer pessoa pode ser considerado um membro. Dessa forma, teremos informações sobre:
+    Onde tem uma célula;
+    Como fazer um cadastro na célula;
+    Horários das células;
+    Tema do encontro da célula;
+    Louvor da célula;
+    Quebra-gelo (dinâmica) da célula do dia;
+    Palavra a ser ministrada;
+    Pregador da célula;
+    Endereço do encontro em célula;
   
