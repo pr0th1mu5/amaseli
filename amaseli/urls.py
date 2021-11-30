@@ -15,7 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from convidados import views as convidadosViews #convidadosViews é um apelido para ser referenciado no path da url
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', convidadosViews.home, name='home'),
+    path('sobre/', convidadosViews.sobre, name='sobre'),
+    path('signup/', convidadosViews.signup, name='signup'),
 ]
