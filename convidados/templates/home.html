@@ -20,6 +20,13 @@
             <button type="submit" class="btn btn-primary">Procurar células</button>
           </form>
           Procurando por <strong>{{cellSearch}}</strong>
+          <br />
+          {% for convidado in convidados %}
+          <hr />
+          <h5>{{ convidado.nome }}</h5>
+          <h5>{{ convidado.email }}</h5>
+          <h5>{{ convidado.telefone }}</h5>
+          {% endfor %}
           <br /><br /><br /><br />
           <h5>Junte-se à lista de e-mails:</h5>
           <form action="{% url 'signup' %}">

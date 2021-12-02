@@ -17,6 +17,8 @@ from django.contrib import admin
 from django.urls import path
 from convidados import views as convidadosViews #convidadosViews é um apelido para ser referenciado no path da url
 
+## Testes de configuração de urls para home e demais páginas utilizando as atualizações e com namespaces.
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', convidadosViews.home, name='home'),
