@@ -11,15 +11,15 @@ A ideia nasceu da necessidade de testar ambiente em nuvem e da não existência 
 Amaseli significa "células" no idioma Zulu. A sugestão foi de um amigo desenvolvedor para que se fizesse jus a uma palavra legal e que não fosse mal interpretada em outros idiomas. A ideia inicial e primeira sugestão não ficou muito boa ;)
 
 #### O que o sistema irá fazer?
-O sistema irá oferecer serviços ao usuários, a princípio como aplicação web, e depois pretendemos estender o projeto para dispositivos mobile.
+O sistema irá oferecer serviços aos usuários, a princípio como aplicação web, e depois pretendemos estender o projeto para dispositivos mobile.
 ##### Serviços para os membros:
 > Aos convidados:
   1. Oferecer a possibilidade de se cadastrar como membro;
   2. Participar como convidado de alguma célula próxima da sua localidade;
-  3. Pode visitar qualquer célula.
+  3. Poder visitar qualquer célula.
   
-> Aos membros cadastrados:
+> Aos membros cadastrados(convidados que realizaram cadastro completo ou inseridos pelo líder):
   1. Podem participar de mais de uma célula;
   2. Podem ser escolhidos pelo líder como líder de outra célula (se houver multiplicação);
   3. Visualizam os eventos cadastrados pelo líder da célula(quebra gelo, louvor, ministração da palavra, local da célula);
-  4. Pode solicitar ao líder participação em algum dos eventos da célula cadastrados pelo líder.
+  4. Pode solicitar ao líder participação em algum dos eventos da célula cadastrados( dinâmica, louvor, palavra ou local da célula).
