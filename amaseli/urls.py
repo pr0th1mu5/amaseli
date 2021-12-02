@@ -25,5 +25,5 @@ urlpatterns = [
     path('', convidadosViews.home, name='home'),
     path('sobre/', convidadosViews.sobre, name='sobre'),
     path('signup/', convidadosViews.signup, name='signup'),
-    path('noticias/', include('nocitias')),
+    path('noticias/', include('noticias.urls')),
 ]
