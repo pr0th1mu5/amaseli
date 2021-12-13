@@ -11,4 +11,7 @@ class Convidado(models.Model):
     email = models.EmailField(max_length=250)
     telefone = models.CharField(max_length=13)
 
+    def __str__(self):
+        return self.nome()
+
     
